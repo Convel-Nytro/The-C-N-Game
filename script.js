@@ -1,7 +1,7 @@
 let tiles = [];
 let level = 1;
 const size = 4; // 4x4 grid
-const totalLevels = 10;
+const totalLevels = 20;
 
 // Game DOM elements
 const puzzleContainer = document.getElementById("puzzle-container");
